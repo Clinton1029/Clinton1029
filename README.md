@@ -43,8 +43,7 @@ I prioritize accuracy, clarity, and efficiency in all my data projects.
 
 ### Languages
 <div align="center">  
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,c,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,c,html,css,git,js,ts&perline=6" alt="Languages" />
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=python,c,html,css,git&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
