@@ -50,8 +50,9 @@ I prioritize accuracy, clarity, and efficiency in all my data projects.
 
 ### Tools  
 <div align="center">  
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=github,vscode,NumPy, Pandas, Matplotlib,mysql,postgres&perline=6" alt="Tools" />
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=github,vscode,numpy,pandas,matplotlib,mysql,postgres&perline=6" alt="Tools" />
 </div>
+
 </td></tr></table>  <br/>
 
  
