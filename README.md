@@ -2,8 +2,7 @@
 
 ### *A Passionate Junior Data Analyst*  
 ---
-
-## *About Me*  
+ 
 
 ## About Me  
 
@@ -25,26 +24,14 @@ I prioritize accuracy, clarity, and efficiency in all my data projects.
 ---
 
 
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
-1. [Blog for all developers](https://developers-home.vercel.app/)
-2. [Full stack Doctors Appointments System](https://healthcare-project-sepia.vercel.app/)
-3. [Full stack E-commerce system](https://e-commerce-market-site.vercel.app/)
-4. [Full stack Apartment rental listings website](https://apartments-site-rental.vercel.app/)
-5. [My Portfolio](https://my-portfolio-livid-seven-75.vercel.app/)
-6. Working to create an AI-powered Chatbot
-
-
-
   ## 🌍Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/">
+  <a href="https://www.linkedin.com/in/clinton-yade-95b01a342/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/26565337/emmanuel-makau">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/>
-  </a>
-  <a href="mailto:emmanuelmakau90@gmail.com">
+ 
+  <a href="mailto:yadeclinton20@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail"/>
   </a>
 </div>
