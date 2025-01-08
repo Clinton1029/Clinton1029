@@ -47,18 +47,13 @@ I prioritize accuracy, clarity, and efficiency in all my data projects.
 </div>
 </td><td valign="top" width="33%">
 
-### Frameworks  
-<div align="center">
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,react,nextjs,django,tensorflow&perline=6," alt="Frameworks" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss,react,django,nodejs,express,redux,pytorch,sklearn,tensorflow&perline=6" alt="Frameworks" />
-</div>
-</td><td valign="top" width="33%">
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,aws,bash,postman,figma,vite,mongodb,mysql,postgres&perline=6" alt="Tools" />
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=github,vscode,jupyter,tableau,mysql,postgres&perline=6" alt="Tools" />
 </div>
-</td></tr></table>  <br/> 
+</td></tr></table>  <br/>
+
  
 </div>
 
