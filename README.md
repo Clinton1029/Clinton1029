@@ -62,13 +62,13 @@ I prioritize accuracy, clarity, and efficiency in all my data projects.
 
 <p align="center">
   <a href="https://github.com/Clinton1029">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton1029&theme=default&border=CCCCCC&background=FFFFFF" alt="Emmanuel's GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton1029&theme=default&border=CCCCCC&background=FFFFFF" alt="Clinton's GitHub streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Clinton1029">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clinton1029&theme=default" alt="Emmanuel's GitHub Contribution" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clinton1029&theme=default" alt="Clinton's GitHub Contribution" />
   </a>
 </p>
 
