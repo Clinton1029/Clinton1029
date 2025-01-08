@@ -61,27 +61,27 @@ I prioritize accuracy, clarity, and efficiency in all my data projects.
 
 
 <p align="center">
-  <a href="https://github.com/Emmanuel10701">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=default&border=CCCCCC&background=FFFFFF" alt="Emmanuel's GitHub streak" />
+  <a href="https://github.com/Clinton1029">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton1029&theme=default&border=CCCCCC&background=FFFFFF" alt="Emmanuel's GitHub streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emmanuel10701">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=default" alt="Emmanuel's GitHub Contribution" />
+  <a href="https://github.com/Clinton1029">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clinton1029&theme=default" alt="Emmanuel's GitHub Contribution" />
   </a>
 </p>
 
 <table align="center">
   <tr>
     <td valign="top">
-        <a href="https://github.com/Emmanuel10701">
-            <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
+        <a href="https://github.com/Clinton1029">
+            <img alt="Clinton's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Clinton1029&show_icons=true&count_private=true&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
         </a>
     </td>
     <td valign="top">
-        <a href="https://github.com/Emmanuel10701">
-            <img alt="Emmanuel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
+        <a href="https://github.com/Clinton1029">
+            <img alt="Clinton's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Clinton1029&langs_count=8&layout=compact&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
         </a>
     </td>
   </tr>
