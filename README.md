@@ -38,7 +38,7 @@ I prioritize accuracy, clarity, and efficiency in all my data projects.
 
 
 
-<div style="text-align: center; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
+<div style="text-align: center; background: linear-gradient(136deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
 <table><tr><td valign="top" width="33%">
 
 ### Languages
