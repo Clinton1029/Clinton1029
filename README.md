@@ -79,7 +79,7 @@ I prioritize accuracy, clarity, and efficiency in all my data projects.
             <img alt="Clinton's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Clinton1029&show_icons=true&count_private=true&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
         </a>
     </td>
-    <td valign="top">
+   <td valign="top">
         <a href="https://github.com/Clinton1029">
             <img alt="Clinton's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Clinton1029&langs_count=8&layout=compact&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
         </a>
