@@ -11,16 +11,21 @@ Skilled in **Python, SQL, Advanced Excel, Tableau, Power BI, DataOps, Microsoft 
 Passionate about leveraging data to optimize processes and create impactful solutions.  
 
 
-## Skills and Expertise  
+## 🚀 Skills and Expertise  
 
-I specialize in data analysis with:
+I specialize in **data analysis, visualization, and web development (basic)**, leveraging the following tools and technologies:  
 
-- **Python** (NumPy, Pandas, Matplotlib)
-- **SQL** (MySQL, PostgreSQL)
-- **Data Visualization** (Tableau, Advanced Excel)
-- **IDEs and Tools** (VS Code, Jupyter Notebook)
+- **Programming & Data Manipulation:** Python (*NumPy, Pandas, Matplotlib*), C  
+- **Databases & Querying:** SQL (*MySQL, PostgreSQL*)  
+- **Data Visualization:** Tableau, Power BI, Advanced Excel  
+- **Cloud & DataOps:** Microsoft Azure, DataOps  
+- **Web Scraping:** BeautifulSoup  
+- **Web Development (Basic):** HTML, CSS  
+- **Productivity & Office Tools:** MS Office (*Word, Excel, PowerPoint*)  
+- **IDEs & Tools:** VS Code, Jupyter Notebook  
+- **Tech & Productivity Tools:** ChatGPT, Turbine AI, GitHub Copilot  
 
-I prioritize accuracy, clarity, and efficiency in all my data projects.
+I prioritize **accuracy, clarity, and efficiency** in all my data projects, ensuring data-driven solutions that create meaningful impact.  
 
 ---
 
