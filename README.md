@@ -57,15 +57,6 @@ I prioritize **accuracy, clarity, and efficiency** in all my data projects, ensu
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=github,vscode,excel,mysql,postgres,azure,tableau,powerbi&perline=6" alt="Tools" />
 </div>  
 
-### Additional Skills  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Tableau, Power BI, Advanced Excel  
-- **Databases:** MySQL, PostgreSQL, SQL  
-- **Cloud & DevOps:** Microsoft Azure, DataOps  
-- **Web Scraping:** BeautifulSoup  
-- **Basic Web Development:** HTML, CSS  
-- **AI-Powered Code Assistance:** Chart GPT, Turbine, Copilot  
-- **Microsoft Office Suite:** Excel, Word, PowerPoint  
-
 
 </td></tr></table>  <br/>
 
