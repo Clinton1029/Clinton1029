@@ -3,11 +3,13 @@
 ---
  
 
-## About Me  
+## 📌 About Me  
 
-I'm a junior data analyst specializing in data analysis and visualization using Python, advanced Excel, SQL, and Tableau. My goal is to extract insights and provide actionable solutions to complex data problems.
+I am a **Junior Data Analyst** with expertise in **data analysis, visualization, and automation**.  
+Skilled in **Python, SQL, Advanced Excel, Tableau, Power BI, DataOps, Microsoft Azure, and Web Scraping**, I specialize in extracting insights from complex datasets to drive informed decision-making.  
 
----
+Passionate about leveraging data to optimize processes and create impactful solutions.  
+
 
 ## Skills and Expertise  
 
