@@ -47,17 +47,25 @@ I prioritize **accuracy, clarity, and efficiency** in all my data projects, ensu
 <div style="text-align: center; background: linear-gradient(136deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
 <table><tr><td valign="top" width="33%">
 
-### Languages
+### Languages  
 <div align="center">  
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=python,c,html,css,git&perline=6" alt="Languages" />
-</div>
-</td><td valign="top" width="33%">
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=python,c,html,css,sql,git&perline=6" alt="Languages" />
+</div>  
 
-
-### Tools  
+### Tools & Technologies  
 <div align="center">  
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=github,vscode,microsoft exel,mysql,postgres&perline=6" alt="Tools" />
-</div>
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=github,vscode,excel,mysql,postgres,azure,tableau,powerbi&perline=6" alt="Tools" />
+</div>  
+
+### Additional Skills  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Tableau, Power BI, Advanced Excel  
+- **Databases:** MySQL, PostgreSQL, SQL  
+- **Cloud & DevOps:** Microsoft Azure, DataOps  
+- **Web Scraping:** BeautifulSoup  
+- **Basic Web Development:** HTML, CSS  
+- **AI-Powered Code Assistance:** Chart GPT, Turbine, Copilot  
+- **Microsoft Office Suite:** Excel, Word, PowerPoint  
+
 
 </td></tr></table>  <br/>
 
