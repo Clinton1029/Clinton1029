@@ -43,25 +43,11 @@ I prioritize **accuracy, clarity, and efficiency** in all my data and software p
 
 
 
-<div style="text-align: center; background: linear-gradient(136deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
-<table><tr><td valign="top" width="33%">
+## 🧩 Skills Overview  
 
-### 💻 Languages  
-<div align="center">  
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=python,js,c,html,css,sql,git&perline=6" alt="Languages" />
-</div>  
-
-### ⚡ Frameworks & Libraries  
-<div align="center">  
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs,django,tailwind,prisma&perline=6" alt="Frameworks" />
-</div>  
-
-### 🛠️ Tools & Technologies  
-<div align="center">  
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=github,vscode,excel,mysql,postgres,azure,tableau,powerbi&perline=6" alt="Tools" />
-</div>  
-
-</td></tr></table>  <br/>
+| 💻 Languages | ⚡ Frameworks & Libraries | 🛠️ Tools & Technologies |
+|--------------|---------------------------|--------------------------|
+| ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![SQL](https://skillicons.dev/icons?i=sqlite) ![Git](https://skillicons.dev/icons?i=git) | ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Django](https://skillicons.dev/icons?i=django) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Prisma](https://skillicons.dev/icons?i=prisma) | ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Azure](https://skillicons.dev/icons?i=azure) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) |
 
  
 </div>
