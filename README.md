@@ -5,10 +5,10 @@
 
 ## 📌 About Me  
 
-I am a **Junior Data Analyst** with expertise in **data analysis, visualization, and automation**.  
-Skilled in **Python, SQL, Advanced Excel, Tableau, Power BI, DataOps, Microsoft Azure, and Web Scraping**, I specialize in extracting insights from complex datasets to drive informed decision-making.  
+I am a **Junior Data Analyst & Software Engineer** with expertise in **data analysis, visualization, and automation**.  
+Skilled in **Python, SQL, Advanced Excel, Tableau, Power BI, DataOps, Microsoft Azure, Web Scraping, Next.js, Django, and Prisma**, I specialize in transforming complex datasets into actionable insights and building scalable applications.  
 
-Passionate about leveraging data to optimize processes and create impactful solutions.  
+Passionate about leveraging **data and software engineering** to optimize processes, solve real-world problems, and deliver impactful solutions.  
 
 
 ## 🚀 Skills and Expertise  
