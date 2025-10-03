@@ -46,16 +46,20 @@ I prioritize **accuracy, clarity, and efficiency** in all my data and software p
 <div style="text-align: center; background: linear-gradient(136deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
 <table><tr><td valign="top" width="33%">
 
-### Languages  
+### 💻 Languages  
 <div align="center">  
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=python,c,html,css,sql,git&perline=6" alt="Languages" />
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=python,js,c,html,css,sql,git&perline=6" alt="Languages" />
 </div>  
 
-### Tools & Technologies  
+### ⚡ Frameworks & Libraries  
+<div align="center">  
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs,django,tailwind,prisma&perline=6" alt="Frameworks" />
+</div>  
+
+### 🛠️ Tools & Technologies  
 <div align="center">  
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=github,vscode,excel,mysql,postgres,azure,tableau,powerbi&perline=6" alt="Tools" />
 </div>  
-
 
 </td></tr></table>  <br/>
 
