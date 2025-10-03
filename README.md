@@ -13,19 +13,18 @@ Passionate about leveraging **data and software engineering** to optimize proces
 
 ## 🚀 Skills and Expertise  
 
-I specialize in **data analysis, visualization, and web development (basic)**, leveraging the following tools and technologies:  
+I specialize in **data analysis, visualization, and full-stack development**, leveraging the following tools and technologies:  
 
-- **Programming & Data Manipulation:** Python (*NumPy, Pandas, Matplotlib*), C  
-- **Databases & Querying:** SQL (*MySQL, PostgreSQL*)  
+- **Programming & Data Manipulation:** Python (*NumPy, Pandas, Matplotlib*), JavaScript, C  
+- **Databases & Querying:** SQL (*MySQL, PostgreSQL*), Prisma ORM  
 - **Data Visualization:** Tableau, Power BI, Advanced Excel  
 - **Cloud & DataOps:** Microsoft Azure, DataOps  
-- **Web Scraping:** BeautifulSoup  
-- **Web Development (Basic):** HTML, CSS  
+- **Web Scraping & Automation:** BeautifulSoup, Selenium  
+- **Web Development (Frontend & Backend):** Next.js, Django, Tailwind CSS, HTML, CSS  
 - **Productivity & Office Tools:** MS Office (*Word, Excel, PowerPoint*)  
-- **IDEs & Tools:** VS Code, Jupyter Notebook  
-- **Tech & Productivity Tools:** ChatGPT, Turbine AI, GitHub Copilot  
+- **Development Tools:** VS Code, Jupyter Notebook, GitHub Copilot, ChatGPT, Turbine AI  
 
-I prioritize **accuracy, clarity, and efficiency** in all my data projects, ensuring data-driven solutions that create meaningful impact.  
+I prioritize **accuracy, clarity, and efficiency** in all my data and software projects, ensuring impactful and data-driven solutions.  
 
 ---
 
