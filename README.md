@@ -45,11 +45,9 @@ I prioritize **accuracy, clarity, and efficiency** in all my data and software p
 
 ## 🧩 Skills Overview  
 
-## 🧩 Skills Overview  
-
-| 💻 Languages | ⚡ Frameworks & Libraries | 🛠️ Tools & Technologies |
-|--------------|---------------------------|--------------------------|
-| ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![SQL](https://skillicons.dev/icons?i=sqlite) ![Git](https://skillicons.dev/icons?i=git) | ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Django](https://skillicons.dev/icons?i=django) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Prisma](https://skillicons.dev/icons?i=prisma) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Azure](https://skillicons.dev/icons?i=azure) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) |
+| 💻 Languages | ⚡ Frameworks & Libraries | 📊 Data Analysis & ML | 🛠️ Tools & Technologies |
+|--------------|---------------------------|-----------------------|--------------------------|
+| ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![SQL](https://skillicons.dev/icons?i=sqlite) ![Git](https://skillicons.dev/icons?i=git) | ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Django](https://skillicons.dev/icons?i=django) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Prisma](https://skillicons.dev/icons?i=prisma) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) | ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Azure](https://skillicons.dev/icons?i=azure) |
 
  
 </div>
